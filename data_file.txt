@@ -1,0 +1,8 @@
+fruits : [apple', 'banana', 'orange',
+ 'pear', 'kiwi', 'mango', 'pineapple']
+
+vegetables : ['carrot', 'broccoli','spinach', 'kale',
+ 'bell pepper', 'zucchini', 'cucumber']
+
+citrus_fruits : ['lemon', 'lime', 'grapefruit',
+ 'orange', 'mandarin', 'tangerine']
